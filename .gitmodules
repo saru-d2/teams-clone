@@ -1,0 +1,6 @@
+[submodule "teams-clone-frontend"]
+	path = teams-clone-frontend
+	url = https://github.com/saru-d2/teams-clone-frontend.git
+[submodule "teams-clone-backend"]
+	path = teams-clone-backend
+	url = https://github.com/saru-d2/teams-clone-backend.git
