@@ -11,8 +11,10 @@ Made with <span style="color: #e25555;">&hearts;</span> in India by [saru](https
 After installing node, run the following commands to initialize the project.
 
 ```bash
-    git clone https://github.com/saru-d2/teams-clone.git
-    cd teams-clone
+git clone https://github.com/saru-d2/teams-clone.git
+cd teams-clone
+# to update the submodules
+git submodule foreach git pull origin master   
 ```
 
 And from there you can follow the intructions to run the subsequent directories.
